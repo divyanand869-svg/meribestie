@@ -13,6 +13,7 @@ import RoastArchive from '@/components/RoastArchive';
 import ChatArchive from '@/components/ChatArchive';
 import OpenWhen from '@/components/OpenWhen';
 import AchievementWall from '@/components/AchievementWall';
+import MemoryCube from '@/components/experiences/MemoryCube'; // <-- सही पाथ यहाँ है
 import MemoryVault from '@/components/MemoryVault';
 import TheLetter from '@/components/TheLetter';
 import FuturePredictions from '@/components/FuturePredictions';
@@ -36,6 +37,7 @@ export default function Home() {
           <ChatArchive />
           <OpenWhen />
           <AchievementWall />
+          <MemoryCube /> 
           <MemoryVault />
           <TheLetter />
           <FuturePredictions />
