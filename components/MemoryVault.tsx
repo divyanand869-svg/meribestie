@@ -5,7 +5,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 
 // NOTE: This is a client-side "lock" for atmosphere, not real security.
 // Set your chosen passphrase here.
-const PASSCODE = 'sheti';
+const PASSCODE = 'kuchu';
 
 export default function MemoryVault() {
   const [input, setInput] = useState('');
@@ -38,7 +38,7 @@ export default function MemoryVault() {
             The Memory Vault
           </h2>
           <p className="mt-4 text-paper-300/70 font-body">
-            Some things stay locked until you have the word for it.
+            Tumhari sabse pyarii pic...
           </p>
         </motion.div>
 
@@ -65,7 +65,7 @@ export default function MemoryVault() {
                   </svg>
                 </motion.div>
                 <label htmlFor="vault-pass" className="eyebrow block mb-3">
-                  Nickname dalo apna !!_ To reveal something jise apne hatho se tumhare liye banaya hai... 👻👻
+                  Nickname dalo apna !!_ To see something !! tumhaari sabse pyaruu si pic jise maine kheechi hai... 👻👻
                 </label>
                 <input
                   id="vault-pass"
@@ -100,7 +100,7 @@ export default function MemoryVault() {
     <img
       src="/images/vault-photo.jpg"
       alt="Memory Vault"
-      className="absolute inset-0 w-full h-full object-cover"
+      className="absolute inset-0 w-full h-full object-contain"
     />
   </div>
 </motion.div>
