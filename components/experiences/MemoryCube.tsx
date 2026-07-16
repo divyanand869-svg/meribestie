@@ -17,7 +17,7 @@ import { motion, useMotionValue, useSpring, useReducedMotion } from 'framer-moti
 import { getPicSlice } from '@/lib/three';
 
 // pics 6–11 (0-indexed 5–10) on the cube faces
-const FACE_PICS = getPicSlice(5, 11);
+const FACE_PICS = getPicSlice(6, 12);
 
 // CSS transforms for each face of a unit cube (size = 1 = 100%)
 const FACES: { label: string; transform: string }[] = [
