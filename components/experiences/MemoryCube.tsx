@@ -90,7 +90,7 @@ export default function MemoryCube() {
           <div className="grid grid-cols-3 gap-3">
             {FACE_PICS.map((pic, i) => (
               <div key={pic.url} className="relative aspect-square rounded-sm overflow-hidden ring-1 ring-gold/20">
-                <Image src={pic.url} fill sizes="33vw" className="object-cover" />
+                <Image src={pic.url} alt={pic.label} fill sizes="33vw" className="object-cover" />
               </div>
             ))}
           </div>
