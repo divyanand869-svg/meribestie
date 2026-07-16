@@ -39,6 +39,15 @@ const events = [
     description:
       'Built quietly, in stolen pockets of time, because some things deserve more effort than a message that says "THANKYOU FOR BEING THERE."',
   },
+
+  {
+  date: '16 July 2026',
+  time: '',
+  title: 'Mission: Finally Successful',
+  description:
+    'After an unreasonable amount of convincing, shameless persistence, emotional presentations, premium-quality flirting, and refusing to give up... I finally said "yes." Toh, congratulations to us, we are officially dating now... (Aur haa, Tumne tumne kiya propose baar baar, mai nahi maan raha tha 👻... Maan gaya efforts dekhkrr lol 😂)',
+  },
+  
   {
     date: 'Next',
     time: '',
