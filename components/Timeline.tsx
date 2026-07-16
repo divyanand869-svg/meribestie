@@ -45,7 +45,7 @@ const events = [
   time: '',
   title: 'Mission: Finally Successful',
   description:
-    'After an unreasonable amount of convincing, shameless persistence, emotional presentations, premium-quality flirting, and refusing to give up... I finally said "yes." Toh, congratulations to us, we are officially dating now... (Aur haa, Tumne tumne kiya propose baar baar, mai nahi maan raha tha 👻... Maan gaya efforts dekhkrr lol 😂)',
+    'After an unreasonable amount of convincing, shameless persistence, emotional presentations, premium-quality flirting, and refusing to give up... Finally, I said "yes." Toh, congratulations to you, you are officially dating with your premium pasandida mard now... (Aur haa, Tumne tumne kiya propose baar baar, mai nahi maan raha tha 👻... Maan gaya efforts dekhkrr lol 😂!! Kitna mehnat ki ho yawrr mere pichhe..)',
   },
   
   {
